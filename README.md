@@ -67,7 +67,7 @@ Each transformation will be reflected on an X-Y plot and the new coordinates aft
 
 ### Input
 
-```b
+```
 polygon
 1 -1 -1 1
 1 1 -1 -1
